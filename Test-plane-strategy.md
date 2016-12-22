@@ -1,5 +1,4 @@
-****Prepared By** :** The Test Lead
-# My Web Server
+# My Web Server Testing Strategy Plane and Reports.
 
 
 
