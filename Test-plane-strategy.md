@@ -299,5 +299,6 @@ Our main purpose of these papers is to summarize the tests results and efforts s
 | Test | Succeed Rate | Fail rate |
 | ------------- |:-------------:| :-----:|
 |Acceptance to requirements test |70%|30%|
-|Use cases Tests |60%|40%|
+|Unit  Tests |80%|20%|
+|Integration  Tests |90%|10%|
 
