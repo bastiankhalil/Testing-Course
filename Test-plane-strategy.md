@@ -1,14 +1,5 @@
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
- Test strategy, test-plan, test-cases and reports
-Date: 2016/10/12
 ****Prepared By** :** The Test Lead
 # My Web Server
--------------
 
 
 
@@ -38,7 +29,9 @@ By doing this we should uncover if there is any errors in our server software an
 Since we have 40 Hours and one week then is is logical to have 1 Agile iteration. Tow weeks eveyday 4 hours.
 
 ###**3.2) Testing Level:**
+
 Level 1:
+
 |   Key|  Explanation|
 |---|---|
 | WHY  | To make sure the server support HTTP |
@@ -60,6 +53,7 @@ Level 2:
 
 
 Level 3:
+
 |   Key|  Explanation|
 |---|---|
 | WHY  | To make sure the server integrated with a socket client |
@@ -68,6 +62,7 @@ Level 3:
 |   HOW    |  Using Java, Eclipse and Junit test framework|
 
 Level 4:
+
 |   Key|  Explanation|
 |---|---|
 | WHY  | To make sure the server runs some basic functions |
@@ -296,8 +291,8 @@ Our main purpose of these papers is to summarize the tests results and efforts s
 |  | Response Content Type Test |  100%  | 0 |
 |  | Response HTML file Response Test |  100%  | 0 |
 | **View Test** | Test No Argument  |  100%  | 0 |
-| **View Test** | Test Port is set |  100%  | 0 |
-| **View Test** | Test Port is taken |  0  | 100% |
+|  | Test Port is set |  100%  | 0 |
+| | Test Port is taken |  0  | 100% |
 
 
 ## **4- Test Results Summery**
